@@ -1,0 +1,147 @@
+# Jess Bot Privacy Policy
+
+**Effective date:** August 31, 2026  
+**Last updated:** August 31, 2026
+
+This Privacy Policy explains how the independent developer operating Jess Bot
+(**Jess**, **we**, **us**, or **our**) collects, uses, stores, and shares information
+when you use Jess Bot, the Jess World Discord server, or
+[jessbot.xyz](https://jessbot.xyz) (together, the **Service**).
+
+## 1. Information we process
+
+Depending on how you use Jess, we may process:
+
+- **Discord information:** numeric Discord user ID, server membership and roles,
+  preferred language, operational timestamps, command interactions, and the information
+  Discord makes available to the bot for the requested feature.
+- **Conversation content:** text you send to Jess and, when supported, an image attached
+  to your current message. User text is limited to 1,000 characters before it enters
+  Jess's operational history, database, memory system, or AI request.
+- **Conversation history and memory:** a short recent history used for conversational
+  continuity; up to the last three user messages may be retained as an operational
+  backup. Tier 2 and Tier 3 may also store user-authored text as isolated semantic
+  memory. Tier 1 does not create semantic memory, and downgrading to Tier 1 removes that
+  semantic-memory collection.
+- **Subscription information:** Patreon user or member identifiers, membership tier,
+  membership and charge status, relevant timestamps, refund status, and the Discord ID
+  linked through Patreon. Jess does not need your full payment-card number.
+- **Usage information:** daily message counts, quota dates, errors, security logs, and
+  other information necessary to operate and protect the Service.
+- **Referral information:** referral code, Discord user ID, invite code and join time,
+  membership-conversion status, commission window, relevant Patreon charge or refund
+  records, and payout-accounting status.
+- **Website and attribution information:** an anonymous visitor ID, session and A/B-test
+  variant, referral and campaign parameters (such as UTM values or advertising click
+  identifiers), CTA destination, tier selection, consent state, and timestamps. The
+  website may use first-party local or session storage for these functions.
+- **Support information:** information you voluntarily provide in a support ticket or
+  other communication.
+
+The website's Discord identity connection stores the verified numeric Discord ID, not
+the returned username, avatar, Discord access token, or refresh token. The Patreon
+identity connection stores the verified Patreon user ID, not the user's Patreon access
+token, refresh token, email address, username, or profile details. OAuth state records
+are temporary and expire after approximately ten minutes.
+
+## 2. How we use information
+
+We use information to:
+
+- provide AI responses, conversation continuity, memory, language, and tier features;
+- verify paid access and enforce message or feature limits;
+- synchronize Discord and Patreon membership status;
+- attribute referrals and calculate, review, and audit partner commissions;
+- operate website login, checkout routing, analytics, and conversion measurement;
+- prevent abuse, investigate errors, secure accounts, and maintain the Service;
+- answer support and deletion requests; and
+- comply with applicable law and enforce our Terms of Service.
+
+We do not sell your personal information.
+
+## 3. AI processing and service providers
+
+Relevant text and current image references may be sent to OpenAI to generate responses,
+embeddings, or other AI functionality. Images are supplied using Discord-hosted URLs and
+are not intentionally downloaded into Jess's local image folder.
+
+We also rely on providers such as Discord for communication and identity, Patreon for
+memberships and billing, OpenAI Sites and its infrastructure providers for the website,
+Porkbun for domain and DNS administration, and database or hosting infrastructure used
+to operate Jess. These providers process information under their own terms and privacy
+policies. Information may be processed in countries other than yours.
+
+## 4. Retention
+
+We retain information only for as long as reasonably needed for the purposes above,
+security, accounting, dispute resolution, and legal obligations. Current operational
+practices include:
+
+- keeping only a bounded recent conversation history in active memory;
+- retaining up to three recent user messages as a restart backup;
+- retaining Tier 2 and Tier 3 semantic memories until deletion, downgrade to Tier 1, or
+  another applicable cleanup event;
+- retaining daily usage records as needed to enforce quotas; and
+- retaining referral, commission, charge, refund, and payout records as needed to avoid
+  duplicate or incorrect affiliate payments and maintain an audit trail.
+
+Backups and provider-side copies may take additional time to expire. We may retain
+limited records when required by law or reasonably necessary to prevent fraud and abuse.
+
+## 5. Sharing
+
+We share information only as needed with service providers described above, when you
+direct us to do so, to protect the rights and safety of users or the Service, during a
+legitimate business or service transfer, or when required by law. Referral reports are
+restricted to authorized administrators; partner accounting should expose only the
+information necessary to review the relevant referral and payment.
+
+## 6. Security
+
+We use reasonable technical and organizational safeguards, including access controls,
+per-user memory separation, authenticated synchronization, signature verification for
+webhooks, and encryption for selected stored credentials. No system is completely
+secure, and we cannot guarantee absolute security.
+
+## 7. Your choices and rights
+
+You may:
+
+- stop messaging Jess or leave the Discord server;
+- disconnect Discord from Patreon through the applicable account settings;
+- cancel your Patreon membership through Patreon;
+- ask what Jess remembers about you using available features; and
+- request deletion or correction of your Jess data through the support process below.
+
+A verified deletion request removes the user's Jess database record, semantic memory,
+active history, and local caches. Some accounting, referral, security, webhook, or
+payment records may be retained where reasonably necessary or legally required. Data
+controlled independently by Discord, Patreon, OpenAI, or another provider must be
+managed through that provider.
+
+Depending on where you live, you may have additional rights to access, correct, delete,
+restrict, object to, or receive a copy of personal information. We may need to verify
+that the Discord account making a request belongs to you.
+
+## 8. Children
+
+The Service is not intended for anyone below Discord's minimum permitted age or the
+higher minimum age required by local law. If you believe a child has provided personal
+information in violation of those requirements, contact us so we can investigate and
+delete it where appropriate.
+
+## 9. Changes to this policy
+
+We may update this Privacy Policy as the Service changes. The latest revision date will
+appear at the top, and material changes may also be announced on the website or in Jess
+World.
+
+## 10. Contact and deletion requests
+
+Join the official Jess World support server at
+[discord.gg/uFSvN7nVYw](https://discord.gg/uFSvN7nVYw) and open a support ticket. State
+that you are making a privacy or deletion request and identify the Discord account
+concerned. Do not send passwords, bot tokens, payment-card information, or identity
+documents unless we specifically explain why verification is required and provide a
+safe method.
+
